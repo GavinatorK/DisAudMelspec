@@ -1,0 +1,51 @@
+﻿Category,broadClass
+Dog,Animals
+Rooster,Animals
+Pig,Animals
+Cow,Animals
+Frog,Animals
+Cat,Animals
+Hen,Animals
+Insects (flying),Animals
+Sheep,Animals
+Crow,Animals
+Rain,Natural_soundscapes_&_water_sounds
+Sea waves,Natural_soundscapes_&_water_sounds
+Crackling fire,Natural_soundscapes_&_water_sounds
+Crickets,Natural_soundscapes_&_water_sounds
+Chirping birds,Natural_soundscapes_&_water_sounds
+Water drops,Natural_soundscapes_&_water_sounds
+Wind,Natural_soundscapes_&_water_sounds
+Pouring water,Natural_soundscapes_&_water_sounds
+Toilet flush,Natural_soundscapes_&_water_sounds
+Thunderstorm,Natural_soundscapes_&_water_sounds
+Crying baby,Human_non-speech_sounds
+Sneezing,Human_non-speech_sounds
+Clapping,Human_non-speech_sounds
+Breathing,Human_non-speech_sounds
+Coughing,Human_non-speech_sounds
+Footsteps,Human_non-speech_sounds
+Laughing,Human_non-speech_sounds
+Brushing teeth,Human_non-speech_sounds
+Snoring,Human_non-speech_sounds
+"Drinking, sipping",Human_non-speech_sounds
+Door knock,Interior/domestic_sounds
+Mouse click,Interior/domestic_sounds
+Keyboard typing,Interior/domestic_sounds
+"Door, wood creaks",Interior/domestic_sounds
+Can opening,Interior/domestic_sounds
+Washing machine,Interior/domestic_sounds
+Vacuum cleaner,Interior/domestic_sounds
+Clock alarm,Interior/domestic_sounds
+Clock tick,Interior/domestic_sounds
+Glass breaking,Interior/domestic_sounds
+Helicopter,Exterior/urban_noises
+Chainsaw,Exterior/urban_noises
+Siren,Exterior/urban_noises
+Car horn,Exterior/urban_noises
+Engine,Exterior/urban_noises
+Train,Exterior/urban_noises
+Church bells,Exterior/urban_noises
+Airplane,Exterior/urban_noises
+Fireworks,Exterior/urban_noises
+Hand saw,Exterior/urban_noises
